@@ -1,0 +1,50 @@
+body{
+      /* Nome da cor */
+     /* background-color: red; */
+
+     /* Hexadecimal */
+     /* background-color: #f28705; */
+
+     /* RGB */
+     /* background-color: rgb(127, 255, 0); */
+
+     /* RGB com transparencia */
+     background-color: rgba(255, 174, 0, 0.521);
+}
+
+h1 {
+    color:chocolate;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+h2 {
+    font-size: 5vw;
+}
+p {
+    font-size: 120%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    /* Espaçamento entre linhas */
+    line-height: 2em;
+}
+
+span {
+    font-size: 2em;
+    color: red;
+}
+/*----------------------------------------------*/
+/* PX (pixels) é uma unidade fixa. O tamanho sempre será o mesmo, independente do tamanho da tela. */
+/* 2EM - O dobro do tamanho padrão, significa que ele é o multiplicador do tamaho base*/
+/* 120% - 20% maior que o padrão */
+/* 5VW - 5% da largura da tela / isso faz com que o tamanho do texto se ajuste ao da tela!, muito útil pare design responsivo. */
+
+/*
+Controla a grossura (negrito) do texto. 
+100 = super fino
+400 = Normal
+700 = Negrito
+900= Super Negrito
+*/
+/* STRONG - FORte IMPORTANCIA */
+/*----------------------------------------------*/
