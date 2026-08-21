@@ -8,13 +8,16 @@ font-family: "Oswald", sans-serif;
   font-weight: weight;
   font-style: normal;
 }
+p {
+  background-color: #253d39f3;
+}
 
 .titulo1 {
   color:rgb(242, 183, 5)
 }
 
 h1 {
-  background-color: #3b4e4b;
+  background-color: #455e5a;
 }
 
 footer {
@@ -25,7 +28,7 @@ footer {
 }
 
 h2 {
-  background-color: #373f4265;
+  background-color: #49545865;
 }
 
 a {
