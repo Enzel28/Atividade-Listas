@@ -1,9 +1,33 @@
 body{
-    background-color:#949DA6;
+    background-color:#1a312d;
 }
-.titulo{
-    color:#090B0D;
-  font-family: "Rubik Spray Paint", system-ui;
-  font-weight: 400;
+#paragrafo1{
+    color:rgb(250, 199, 0, 98);
+font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
   font-style: normal;
+}
+
+.titulo1 {
+  color:rgb(242, 183, 5)
+}
+
+h1 {
+  background-color: #3b4e4b;
+}
+
+footer {
+   color:rgb(242, 183, 5)
+}
+footer {
+  background-color: #504a1a;
+}
+
+h2 {
+  background-color: #373f4265;
+}
+
+a {
+  color: white;
 }
