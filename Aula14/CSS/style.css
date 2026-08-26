@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+
+/* FLEBOX */
+/* justify-content */
+/* 
+Flex-start: alinhar os intens à esquerda
+center: Centraliza os itens horizontalmente
+flex-end: açinhar os itens à direita
+Space-between: Espaço igual entre os itens, o primeiro a esquerda e o ultimo a direita
+space-around: Espaço igual ao redor de cada item (meio terno
+ entre os itens é maior)
+Space-evenly: espaço exatamente igual entre todos os itens (inclusive nas bordas)
+*/
