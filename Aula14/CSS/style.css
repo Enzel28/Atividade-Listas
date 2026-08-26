@@ -14,3 +14,25 @@ space-around: Espaço igual ao redor de cada item (meio terno
  entre os itens é maior)
 Space-evenly: espaço exatamente igual entre todos os itens (inclusive nas bordas)
 */
+/* Align-itens */
+/*
+flex-starts: alinha os intens no topo 
+center: centraliza verticalmente
+flex-end: alinha os itens na parte inferior
+stretch: estica os itens para ocupar toda a largura
+baseline: alinha com base na linha base do texto interno
+*/
+
+
+/* flex direction */
+/*
+row: alinha os itens de esquerda para direita
+row-reverse: da direita para a esquerda
+column: de cima para baixo
+column-reverse: de baixo para cima
+*/
+.container {
+    background-color: gray;
+    width: 500px;
+    height: 500px;
+}
