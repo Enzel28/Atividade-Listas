@@ -4,6 +4,7 @@ body {
 
 /* FLEBOX */
 /* justify-content */
+/* Controla como os itens são alinhados horizontalmente dentro do conteiner flex, quando a direção principal é horizontal (padrão: now)*/
 /* 
 Flex-start: alinhar os intens à esquerda
 center: Centraliza os itens horizontalmente
