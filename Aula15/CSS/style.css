@@ -1,24 +1,32 @@
 body {
-    background-color: rgb(0, 58, 109);
+    background-color: #0F1626;
+}
+
+h1 {
+    color: white;
+}
+
+footer {
+    color: white;
 }
 
 .linha1 {
-    background-color: gray;
+    background-color: #684F8C;
     display: flex;
 }
 .cubo1 {
     display: block;
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
     border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
     margin: 1px;
 
 }
 
 .linha2 {
-    background-color: gray;
+    background-color: #684F8C;
     display: flex;
     justify-content: center;
     align-content: center;
@@ -27,126 +35,158 @@ body {
 .cubo2 {
     display: block;
     align-content: center;
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
     border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
     margin: 1px;
     justify-content: center;
     align-items: center;
 }
 
 .linha3 {
-    background-color: gray;
+    background-color: #684F8C;
     display: flex;
     justify-content: flex-end;
     align-content: center;
+    flex-wrap: wrap;
 }
 .cubo3 {
     display: inline-block; 
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
     border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
     margin: 1px;
 }
 
 .linha4 {
-    background-color: gray;
+    background-color: #684F8C;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
 }
 
 .cubo4 {
     display: inline-block;
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
     border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
     margin: 1px;
     align-content: center;
     justify-content: spa;
 }
 
 .linha5 {
-    background-color: gray;
+    background-color: #684F8C;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
 }
 .cubo5 {
     display: inline-block; 
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
     border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
     margin: 1px;
     align-content: center;
 }
 
 .linha6 {
-    background-color: gray;
+    background-color: #684F8C;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
 }
 
 .cubo6 {
     display: inline-block;
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
+    border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
+    margin: 1px;
     align-content: center;
     justify-content: spa;
 }
 
 .linha7 {
-    background-color: gray;
+    background-color: #684F8C;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 .cubo7 {
     display: inline-block; 
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
+    border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
+    margin: 1px;
     align-content: center;
 }
 
 .linha8 {
-    background-color: gray;
+    background-color: #684F8C;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
 }
 
 .cubo8 {
     display: inline-block;
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
+    border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
+    margin: 1px;
     align-content: center;
     justify-content: spa;
 }
 
 .linha9 {
-    background-color: gray;
+    background-color: #684F8C;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
 }
 
 .cubo9 {
     display: inline-block;
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
+    border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
+    margin: 1px;
     align-content: center;
     justify-content: spa;
 }
 
 .linha10 {
-    background-color: gray;
+    background-color: #684F8C;
+    display: flex;
+    justify-content: center;
+    align-content: center;
 }
 
 .cubo10 {
     display: inline-block;
-    background-color: rgb(246, 246, 246);
+    background-color: #5096F2;
+    border-radius: 10px;
     width: 50px;
     height: 50px;
-    border: 1px solid rgb(252, 5, 5);
+    border: 1px solid #C888F2;
+    margin: 1px;
     align-content: center;
     justify-content: spa;
 }
