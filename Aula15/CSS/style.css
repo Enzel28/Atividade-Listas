@@ -13,6 +13,8 @@ footer {
 .linha1 {
     background-color: #684F8C;
     display: flex;
+    margin-top: 20px;
+
 }
 .cubo1 {
     display: block;
@@ -21,7 +23,7 @@ footer {
     width: 50px;
     height: 50px;
     border: 1px solid #C888F2;
-    margin: 1px;
+    margin-right: 5px;
 
 }
 
@@ -40,7 +42,7 @@ footer {
     width: 50px;
     height: 50px;
     border: 1px solid #C888F2;
-    margin: 1px;
+    margin-right: 5px;
     justify-content: center;
     align-items: center;
 }
@@ -59,7 +61,7 @@ footer {
     width: 50px;
     height: 50px;
     border: 1px solid #C888F2;
-    margin: 1px;
+    margin-right: 5px;
 }
 
 .linha4 {
@@ -130,7 +132,7 @@ footer {
     width: 50px;
     height: 50px;
     border: 1px solid #C888F2;
-    margin: 1px;
+    margin-right: 5px;
     align-content: center;
 }
 
@@ -186,7 +188,6 @@ footer {
     width: 50px;
     height: 50px;
     border: 1px solid #C888F2;
-    margin: 1px;
+    margin-right: 5px;
     align-content: center;
-    justify-content: spa;
 }
